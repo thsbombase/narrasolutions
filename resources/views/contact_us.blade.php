@@ -4,7 +4,6 @@
     <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out">
         <h2>Contact Us</span></h2>
-        <p>Et voluptate esse accusantium accusamus natus reiciendis quidem voluptates similique aut.</p>
     </div>
 </section>
 <!-- ======= Contact Section ======= -->
@@ -17,14 +16,13 @@
 
                 <div class="info">
                     <h3>Get in touch</h3>
-                    <p>Et id eius voluptates atque nihil voluptatem enim in tempore minima sit ad mollitia
-                        commodi minus.</p>
+                    <p></p>
 
                     <div class="info-item d-flex">
                         <i class="bi bi-geo-alt flex-shrink-0"></i>
                         <div>
                             <h4>Location:</h4>
-                            <p>A108 Adam Street, New York, NY 535022</p>
+                            <p>21st Floor, 8 Rockwell Plaza Dr, Makati, 1200 Metro Manila</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -32,7 +30,7 @@
                         <i class="bi bi-envelope flex-shrink-0"></i>
                         <div>
                             <h4>Email:</h4>
-                            <p>info@example.com</p>
+                            <p>contact@narra.one</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -40,7 +38,7 @@
                         <i class="bi bi-phone flex-shrink-0"></i>
                         <div>
                             <h4>Call:</h4>
-                            <p>+1 5589 55488 55</p>
+                            <p>+63 9950446484</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -68,8 +66,6 @@
                 <div class="content px-xl-5">
                     <h3>Frequently Asked <strong>Questions</strong></h3>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                     </p>
                 </div>
 
@@ -80,14 +76,13 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#faq-content-1">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Non consectetur a erat nam at lectus urna duis?
+                                Do you only cater to power and water utilities?
                             </button>
                         </h3>
                         <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus
-                                laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
-                                rhoncus dolor purus non.
+                                No, we also conduct business with other utility companies, including oil, gas, etc.
+
                             </div>
                         </div>
                     </div><!-- # Faq item-->
@@ -97,15 +92,13 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#faq-content-2">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                                Do you cater to non-utility companies?
                             </button>
                         </h3>
                         <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                As of now, we want to focus solely on utility companies.
+
                             </div>
                         </div>
                     </div><!-- # Faq item-->
@@ -115,15 +108,13 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#faq-content-3">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                                Are non-Filipinos welcome to apply?
                             </button>
                         </h3>
                         <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci.
-                                Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl
-                                suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis
-                                convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                Definitely. Although our team is mainly made up of Filipinos, we are open to hiring
+                                people from all backgrounds and nationalities.
                             </div>
                         </div>
                     </div><!-- # Faq item-->
@@ -133,16 +124,15 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#faq-content-4">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                                How long does a contract or project last?
+
                             </button>
                         </h3>
                         <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                A contract or project lasts around 6 months, but this could change depending on the
+                                scope of the project.
                             </div>
                         </div>
                     </div><!-- # Faq item-->
@@ -152,15 +142,27 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#faq-content-5">
                                 <i class="bi bi-question-circle question-icon"></i>
-                                Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                                Do you focus on Oracle products only?
                             </button>
                         </h3>
                         <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim
-                                suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan.
-                                Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit
-                                turpis cursus in
+                                Yes. As of the moment, Oracle products are our main focus.
+                            </div>
+                        </div>
+                    </div><!-- # Faq item-->
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+                        <h3 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#faq-content-5">
+                                <i class="bi bi-question-circle question-icon"></i>
+                                How much do your services usually cost?
+                            </button>
+                        </h3>
+                        <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                            <div class="accordion-body">
+                                You may contact us via email or our contact number so we can discuss further.
+
                             </div>
                         </div>
                     </div><!-- # Faq item-->

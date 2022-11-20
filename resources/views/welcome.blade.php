@@ -8,7 +8,7 @@
             <div class="row justify-content-center gy-6">
 
                 <div class="col-lg-5 col-md-8">
-                    <img src="{{ asset('img/hero-carousel/hero-carousel-1.svg') }}" alt="" class="img-fluid img">
+                    <img src="{{ asset('img/Global partners.png') }}" alt="" class="img-fluid img">
                 </div>
 
                 <div class="col-lg-9 text-center">
@@ -19,51 +19,48 @@
                         aliquip
                         ex
                         ea commodo consequat.</p>
-                    <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
                 </div>
 
             </div>
         </div>
     </div><!-- End Carousel Item -->
-
-    <div class="carousel-item">
+    <div class="carousel-item ">
         <div class="container">
             <div class="row justify-content-center gy-6">
 
                 <div class="col-lg-5 col-md-8">
-                    <img src="{{ asset('img/hero-carousel/hero-carousel-2.svg') }}" alt="" class="img-fluid img">
+                    <img src="{{ asset('img/Progressive.png') }}" alt="" class="img-fluid img">
                 </div>
 
                 <div class="col-lg-9 text-center">
-                    <h2>At vero eos et accusamus</h2>
-                    <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
-                        maxime
-                        placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem
-                        quibusdam
-                        et aut officiis debitis aut.</p>
-                    <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
+                    <h2>Welcome to Narra One Solutions</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                        aliquip
+                        ex
+                        ea commodo consequat.</p>
                 </div>
 
             </div>
         </div>
     </div><!-- End Carousel Item -->
-
-    <div class="carousel-item">
+    <div class="carousel-item ">
         <div class="container">
             <div class="row justify-content-center gy-6">
 
                 <div class="col-lg-5 col-md-8">
-                    <img src="{{ asset('img/hero-carousel/hero-carousel-3.svg') }}" alt="" class="img-fluid img">
+                    <img src="{{ asset('img/Utility solutions.png') }}" alt="" class="img-fluid img">
                 </div>
 
                 <div class="col-lg-9 text-center">
-                    <h2>Temporibus autem quibusdam</h2>
-                    <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                        odit aut
-                        fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste
-                        natus
-                        error sit voluptatem accusantium.</p>
-                    <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
+                    <h2>Welcome to Narra One Solutions</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                        aliquip
+                        ex
+                        ea commodo consequat.</p>
                 </div>
 
             </div>
@@ -93,32 +90,38 @@
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
                 <div class="service-item position-relative">
-                    <div class="icon"><i class="bi bi-activity icon"></i></div>
-                    <h4>Lorem Ipsum</h4>
+                    <div class="icon"> <img src="{{ asset('/img/Dependable.png') }}" class="img-fluid" alt=""
+                            width="80"></div>
+                    <h4>Dependable</h4>
                     <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
                 <div class="service-item position-relative">
-                    <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-                    <h4>Sed ut perspici</h4>
+                    <div class="icon"><img src="{{ asset('/img/Growth.png') }}" class="img-fluid" alt="" width="80">
+                    </div>
+                    <h4>Growth</h4>
                     <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
                 <div class="service-item position-relative">
-                    <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-                    <h4>Magni Dolores</h4>
+                    <div class="icon"><img src="{{ asset('/img/Professional.png') }}" class="img-fluid" alt=""
+                            width="80">
+                    </div>
+                    <h4>Professional</h4>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
                 <div class="service-item position-relative">
-                    <div class="icon"><i class="bi bi-broadcast icon"></i></div>
-                    <h4>Nemo Enim</h4>
+                    <div class="icon"><img src="{{ asset('/img/Relationships.png') }}" class="img-fluid" alt=""
+                            width="80">
+                    </div>
+                    <h4>Relationships</h4>
                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
                 </div>
             </div><!-- End Service Item -->
@@ -138,22 +141,12 @@
                 </div>
                 <div class="swiper-slide"><img src="{{ asset('img/clients/client-2.png') }}" class="img-fluid" alt="">
                 </div>
-                <div class="swiper-slide"><img src="{{ asset('img/clients/client-3.png"') }} class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="{{ asset(' img/clients/client-4.png') }}" class="img-fluid" alt="">
-                </div>
-                <div class="swiper-slide"><img src="{{ asset('img/clients/client-5.png') }}" class="img-fluid" alt="">
-                </div>
-                <div class="swiper-slide"><img src="{{ asset('img/clients/client-6.png') }}" class="img-fluid" alt="">
-                </div>
-                <div class="swiper-slide"><img src="{{ asset('img/clients/client-7.png') }}" class="img-fluid" alt="">
-                </div>
-                <div class="swiper-slide"><img src="{{ asset('img/clients/client-8.png') }}" class="img-fluid" alt="">
-                </div>
             </div>
         </div>
+    </div>
 
     </div>
-</section><!-- End Clients Section -->-->
+</section><!-- End Clients Section -->
 
 <!-- ======= Services Section ======= -->
 <section id="services" class="services">
@@ -161,8 +154,7 @@
 
         <div class="section-header">
             <h2>Our Services</h2>
-            <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores
-                adipisci aliquam.</p>
+            <p></p>
         </div>
 
         <div class="row gy-5">
@@ -174,13 +166,17 @@
                     </div>
                     <div class="details position-relative">
                         <div class="icon">
-                            <i class="bi bi-activity"></i>
+                            <img src="{{ asset('/img/Meter data management.png') }}" class="img-fluid" alt=""
+                                width="80">
                         </div>
                         <a href="services.html" class="stretched-link">
                             <h3>Managed Services</h3>
                         </a>
-                        <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure
-                            perferendis.</p>
+                        <p>We understand that a good working system doesn’t just start and end at implementation.
+                            There’s plenty that needs to be done afterwards – management included. To ensure your new
+                            system works seamlessly, we offer expert management services which includes operation,
+                            tracking, and reporting. This can be bundled with our implementation services.
+                        </p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -192,14 +188,14 @@
                     </div>
                     <div class="details position-relative">
                         <div class="icon">
-                            <i class="bi bi-broadcast"></i>
+                            <img src="{{ asset('/img/Customer cloud service.png') }}" class="img-fluid" alt=""
+                                width="80">
                         </div>
                         <a href="services.html" class="stretched-link">
                             <h3>Implementation Services</h3>
                         </a>
-                        <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic
-                            non ut
-                            nesciunt dolorem.</p>
+                        <p>Narra One provides top-of-the-line implementation services in order to advance the IT
+                            infrastructure of utility companies around the globe.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -211,7 +207,8 @@
                     </div>
                     <div class="details position-relative">
                         <div class="icon">
-                            <i class="bi bi-easel"></i>
+                            <img src="{{ asset('/img/Customer care _ billing.png') }}" class="img-fluid" alt=""
+                                width="80">
                         </div>
                         <a href="services.html" class="stretched-link">
                             <h3>Consulting Services</h3>

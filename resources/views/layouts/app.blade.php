@@ -92,10 +92,11 @@
                         <div class="footer-info">
                             <h3>Narra One Solutions</h3>
                             <p>
-                                A108 Adam Street <br>
-                                NY 535022, USA<br><br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
+                                21st Floor, 8 Rockwell Plaza Dr, <br>
+                                Makati, 1200 Metro Manila<br><br>
+                                <strong>Phone:</strong> +63 9950446484<br>
+                                <strong>Email:</strong> contact@narra.one
+                                <br>
                             </p>
                         </div>
                     </div>
