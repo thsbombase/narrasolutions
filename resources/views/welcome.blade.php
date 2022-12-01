@@ -61,7 +61,7 @@
                     </div>
 
                     <div class="col-lg-9 text-center">
-                        <h2>Utility Solutions</h2>
+                        <h2>For Utility Solutions</h2>
 
                     </div>
 
