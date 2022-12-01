@@ -197,7 +197,7 @@
 
                             <img src="{{ asset('img/Customer cloud service.png')}}" class="img-fluid" alt="" width="80">
 
-                            <a href="services.html" class="stretched-link">
+                            <a href="{{ route('services', 'implementation-services') }}" class="stretched-link">
                                 <h3>Implementation Services</h3>
                             </a>
                             <p>Narra One provides top-of-the-line implementation services in order to advance the IT
@@ -215,7 +215,7 @@
 
                             <img src="{{ asset('img/Meter data management.png')}}" class="img-fluid" alt="" width="80">
 
-                            <a href="services.html" class="stretched-link">
+                            <a href="{{ route('services', 'managed-services') }}" class="stretched-link">
                                 <h3>Managed Services</h3>
                             </a>
                             <p>We understand that a good working system doesn’t just start and end at implementation.
