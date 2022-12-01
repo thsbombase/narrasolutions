@@ -10,8 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="{{ asset('img/favicon.png') }}" rel="icon">
-    <link href="{{ asset('img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('img/icon.png') }}" rel="icon">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,12 +25,17 @@
     <link href="{{ asset('vendor/aos/aos.css" rel="stylesheet') }}">
     <link href="{{ asset('vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
     <link href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
 
     <!-- Variables CSS Files. Uncomment your preferred color scheme -->
     <link href="{{ asset('css/variables.css') }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+
 
     <!-- =======================================================
   * Template Name: HeroBiz - v2.3.0
@@ -47,22 +51,20 @@
 
         <a href="{{ route('home') }}" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
             <!-- Uncomment the line below if you also wish to use an image logo -->
-            <!-- <img src="assets/img/logo.png" alt=""> -->
-            <h1>Narra One Solutions</h1>
+            <img src="{{ asset('img/logo.png') }}" alt="">
+
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto" href="{{ route('home') }}">Home</a></li>
                 <li><a class="nav-link scrollto" href="{{ route('about-us') }}">About Us</a></li>
-                <li class="dropdown"><a href="{{ route('services', 'managed-services') }}"><span>Services</span> <i
-                            class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <li class="dropdown"><a href="{{ route('services', 'implementation-services') }}"><span>Services</span>
+                        <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
-                        <li><a href="{{ route('services' , 'managed-services') }}">Managed Services</a></li>
                         <li><a href="{{ route('services', 'implementation-services') }}">Implementation Services</a>
                         </li>
-                        <li><a href="{{ route('services', 'consulting-services') }}">Consulting
-                                Services</a></li>
+                        <li><a href="{{ route('services' , 'managed-services') }}">Managed Services</a></li>
                     </ul>
                 </li>
                 <li><a class="nav-link scrollto" href="{{ route('careers') }}">Careers</a></li>
@@ -118,13 +120,12 @@
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <a
-                                    href="{{ route('services' , 'managed-services') }}">Managed Services</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a
                                     href="{{ route('services', 'implementation-services') }}">Implementation
                                     Services</a>
                             </li>
                             <li><i class="bi bi-chevron-right"></i> <a
-                                    href="{{ route('services', 'consulting-services') }}">Consulting Services</a></li>
+                                    href="{{ route('services' , 'managed-services') }}">Managed Services</a></li>
+
                         </ul>
                     </div>
 
@@ -142,13 +143,13 @@
                     </div>
                 </div>
 
-                <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
+                {{-- <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
                     <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                     <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                     <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                     <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
                     <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> --}}
 
             </div>
         </div>

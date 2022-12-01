@@ -14,18 +14,18 @@
         <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
 
             <div class="col-lg-12">
-                <h1>The leading SME Filipino IT Oracle Solutions Provider </h1>
+                <h1>Rising SME Filipino IT Oracle Solutions Provider </h1>
                 <br>
                 <p>
                     By forging strong, long-lasting relationships with our clients and partners, Narra One aims to be
                     the go-to utilities solutions provider for companies across the globe.
                 </p>
-                <p>Founded in January 2022, Narra One was created with a dream to highlight Filipino expertise in the IT
-                    industry. Leveraging the experience of our founder, Jordan Fernandez, our goal is to enhance the
-                    existing infrastructures of water and power companies worldwide.
+                <p>Founded in January 2022, Narra One was created with a goal to highlight Filipino expertise in the IT
+                    industry. Leveraging the experience of our founder, Jordan Fernandez, we aim to enhance the IT
+                    infrastructures of water and power companies worldwide.
                 </p>
                 <p>To date, we’ve secured two major utility clients: Great Western Power (Melbourne, Victoria, and
-                    Australia) and Bord Gais Energy Ireland.</p>
+                    Australia) and Bord Gais Energy Ireland. </p>
 
             </div>
 
@@ -44,25 +44,29 @@
 
         <div class="row gy-5 justify-content-center">
 
-            <div class="col-xl-4 col-md-6 d-flex " data-aos="zoom-in" data-aos-delay="200">
-                <div class="team-member">
-                    <div class="member-img">
-                        <img src="{{ asset('img/team/team-1.jpg') }}" class="img-fluid" alt="">
+            <div class="col-xl-12 col-md-12 d-flex " data-aos="zoom-in" data-aos-delay="200">
+
+                <div class="row align-items-center">
+                    <div class="col-6 text-end"><img src="{{ asset('img/team-1.jpg') }}" class="img-fluid" alt="">
                     </div>
-                    <div class="member-info">
+                    <div class="col-6">
                         <h4>Jordan Fernandez</h4>
-                        <span>Chief Executive Officer</span>
+                        <p>Chief Executive Officer</p>
+
                         <p>A technology enthusiast with more than 12 years of experience in software implementation
                             design, business analysis, and technology consulting.
                         </p>
                         <p>Leveraging his expertise in Oracle Enterprise Applications, Jordan uses technology to
                             encourage creativity and transparency in everyday life. He specializes in the Tax &
                             Utilities industries and has developed his career across different countries and under
-                            different organizations, including IBM Philippines and the National Water Company in the
+                            different organizations, including <b>IBM Philippines</b> and the<b> National Water
+                                Company</b> in
+                            the
                             Kingdom of Saudi Arabia. Most of Jordan’s career was spent in Australia working as a
                             Techno-Functional Lead for a local Queensland business.</p>
                     </div>
                 </div>
+
             </div><!-- End Team Member -->
 
         </div>
