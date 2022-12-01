@@ -13,7 +13,8 @@
                     </div>
 
                     <div class="col-lg-9 text-center">
-                        <h2>Welcome to Narra One Solutions</h2>
+                        <h2>Welcome to Narra One</h2>
+                        <h2>Oracle Solutions</h2>
                     </div>
 
                 </div>
@@ -91,19 +92,14 @@
         </div>
     </section>
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-        <div class="container" data-aos="zoom-out">
-
-            <div class="clients-slider swiper">
-                <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide">
-                    </div>
-                    <div class="swiper-slide"><img src="{{ asset('img/clients/greater.svg')}}" class="img-fluid" alt="">
-                    </div>
-                    <div class="swiper-slide"><img src="{{ asset('img/clients/bord.png')}}" class="img-fluid" alt="">
-                    </div>
-                    <div class="swiper-slide">
-                    </div>
+    <section id="clients" class="clients ">
+        <div class=" bg-white" data-aos="zoom-out">
+            <div class="row align-items-center p-4 gy-5">
+                <div class="col-md-6 text-center"><img src="{{ asset('img/clients/greater.svg')}}" class="img-fluid "
+                        alt="" width="250">>
+                </div>
+                <div class="col-md-6 text-center"><img src="{{ asset('img/clients/bord.png')}}" class="img-fluid" alt=""
+                        width="300">
                 </div>
             </div>
         </div>
