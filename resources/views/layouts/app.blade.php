@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Narra One Solutions- Home </title>
+    <title>Narra One Solutions</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
