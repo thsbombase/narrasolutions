@@ -28,7 +28,7 @@
                     </div>
 
                     <div class="col-lg-9 text-center">
-                        <h2>Your Progressive</h2>
+                        <h2>Progressive</h2>
 
                     </div>
 

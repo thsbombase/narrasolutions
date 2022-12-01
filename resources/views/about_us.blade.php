@@ -47,8 +47,8 @@
             <div class="col-xl-12 col-md-12 d-flex " data-aos="zoom-in" data-aos-delay="200">
 
                 <div class="row">
-                    <div class="col-md-6 text-end"><img src="{{ asset('img/team-1.jpg') }}" class="img-fluid rounded"
-                            alt="">
+                    <div class="col-md-6 text-center text-md-end"><img src="{{ asset('img/team-1.jpg') }}"
+                            class="img-fluid rounded" alt="" width="350">
                     </div>
                     <div class="col-md-6 mt-5">
                         <h4>Jordan Fernandez</h4>
