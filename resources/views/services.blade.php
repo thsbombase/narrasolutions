@@ -11,14 +11,14 @@
     <div class="container" data-aos="fade-up">
 
         <ul class="nav nav-tabs row gy-4 d-flex">
-            <li class="nav-item col-6 col-md-6 col-lg-6">
+            <li class="nav-item col-12 col-md-6 col-lg-6">
                 <a class="nav-link @if(str_contains(url()->full(), 'implementation-services'))active show @endif"
                     data-bs-target="#tab-2" href="{{ route('services', 'implementation-services') }}">
                     <img src="{{ asset('img/Customer cloud service.png')}}" class="img-fluid" alt="" width="80">
                     <h4>Implementation Services</h4>
                 </a>
             </li><!-- End Tab 2 Nav -->
-            <li class="nav-item col-6 col-md-6 col-lg-6">
+            <li class="nav-item col-12 col-md-6 col-lg-6">
                 <a class="nav-link @if(str_contains(url()->full(), 'managed-services'))active show @endif"
                     data-bs-target="#tab-1" href="{{ route('services', 'managed-services') }}">
                     <img src="{{ asset('img/Meter data management.png')}}" class="img-fluid" alt="" width="80">
@@ -31,7 +31,7 @@
             <div class="tab-pane @if(str_contains(url()->full(), 'implementation-services'))active show @endif"
                 id="tab-2">
                 <div class="row gy-4">
-                    <div class="col-lg-8 order-2 order-lg-1">
+                    <div class="col-lg-12">
                         <h3>Implementation Services</h3>
                         <p>
                             Narra One provides top-of-the-line implementation services in advancing the IT
@@ -77,14 +77,11 @@
                             <li><i class="bi bi-check-circle-fill"></i>Oracle Cash-To-Meter (C2M)</li>
                         </ul>
                     </div>
-                    <div class="col-lg-4 order-1 order-lg-2 text-center">
-                        <img src="{{ asset('img/features-2.svg') }}" alt="" class="img-fluid">
-                    </div>
                 </div>
             </div><!-- End Tab Content 2 -->
             <div class="tab-pane @if(str_contains(url()->full(), 'managed-services'))active show @endif" id="tab-1">
                 <div class="row gy-4">
-                    <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
                         <h3>Managed Services</h3>
                         <p>
                             We understand that a good working system doesn’t just start and end at the implementation
@@ -92,9 +89,6 @@
                                 services</b>
                             which includes <b>operation, tracking, and reporting</b> . This can be bundled with our
                             implementation services.
-                    </div>
-                    <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                        <img src="{{ asset('img/features-1.svg') }}" alt="" class="img-fluid">
                     </div>
                 </div>
             </div><!-- End Tab Content 1 -->
