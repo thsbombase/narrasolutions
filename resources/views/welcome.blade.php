@@ -13,7 +13,7 @@
                     </div>
 
                     <div class="col-lg-9 text-center">
-                        <h2>Welcome to Narra One</h2>
+                        <h2>Welcome to <span class="fw-bold">NARRA ONE</span> </h2>
                         <h2>Oracle Solutions</h2>
                     </div>
 
