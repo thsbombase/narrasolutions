@@ -9,7 +9,7 @@
                 <div class="row justify-content-center gy-6">
 
                     <div class="col-lg-5 col-md-8 text-center">
-                        <img src="{{ asset('img/icon.png')}}" alt="" class="img-fluid img">
+                        <img src="{{ asset('img/Icon.png')}}" alt="" class="img-fluid img">
                     </div>
 
                     <div class="col-lg-9 text-center">
