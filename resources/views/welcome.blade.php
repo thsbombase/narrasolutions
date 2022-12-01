@@ -9,7 +9,7 @@
                 <div class="row justify-content-center gy-6">
 
                     <div class="col-lg-5 col-md-8 text-center">
-                        <img src="{{ asset('img/Icon.png')}}" alt="" class="img-fluid img">
+                        <img src="{{ asset('img/Icon.png')}}" alt="" class="img-fluid img" width="185">
                     </div>
 
                     <div class="col-lg-9 text-center">
@@ -23,8 +23,8 @@
             <div class="container">
                 <div class="row justify-content-center gy-6">
 
-                    <div class="col-lg-5 col-md-8">
-                        <img src="{{ asset('img/Global partners.png')}}" alt="" class="img-fluid img">
+                    <div class="col-lg-5 col-md-8 text-center">
+                        <img src="{{ asset('img/Global partners.png')}}" alt="" class="img-fluid img" width="200">
                     </div>
 
                     <div class="col-lg-9 text-center">
@@ -39,8 +39,8 @@
             <div class="container">
                 <div class="row justify-content-center gy-6">
 
-                    <div class="col-lg-5 col-md-8">
-                        <img src="{{ asset('img/Progressive.png')}}" alt="" class="img-fluid img">
+                    <div class="col-lg-5 col-md-8 text-center">
+                        <img src="{{ asset('img/Progressive.png')}}" alt="" class="img-fluid img" width="200">
                     </div>
 
                     <div class="col-lg-9 text-center">
@@ -53,10 +53,10 @@
         </div><!-- End Carousel Item -->
         <div class="carousel-item ">
             <div class="container">
-                <div class="row justify-content-center gy-6">
+                <div class="row justify-content-center gy-6 ">
 
-                    <div class="col-lg-5 col-md-8">
-                        <img src="{{ asset('img/Utility solutions.png')}}" alt="" class="img-fluid img">
+                    <div class="col-lg-5 col-md-8 text-center">
+                        <img src="{{ asset('img/Utility solutions.png')}}" alt="" class="img-fluid img" width="200">
                     </div>
 
                     <div class="col-lg-9 text-center">
