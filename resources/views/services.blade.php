@@ -14,14 +14,14 @@
             <li class="nav-item col-6 col-md-6 col-lg-6">
                 <a class="nav-link @if(str_contains(url()->full(), 'implementation-services'))active show @endif"
                     data-bs-target="#tab-2" href="{{ route('services', 'implementation-services') }}">
-                    <i class="bi bi-box-seam color-indigo"></i>
+                    <img src="{{ asset('img/Customer cloud service.png')}}" class="img-fluid" alt="" width="80">
                     <h4>Implementation Services</h4>
                 </a>
             </li><!-- End Tab 2 Nav -->
             <li class="nav-item col-6 col-md-6 col-lg-6">
                 <a class="nav-link @if(str_contains(url()->full(), 'managed-services'))active show @endif"
                     data-bs-target="#tab-1" href="{{ route('services', 'managed-services') }}">
-                    <i class="bi bi-binoculars color-cyan"></i>
+                    <img src="{{ asset('img/Meter data management.png')}}" class="img-fluid" alt="" width="80">
                     <h4>Managed Services</h4>
                 </a>
             </li><!-- End Tab 1 Nav -->
