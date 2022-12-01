@@ -46,11 +46,11 @@
 
             <div class="col-xl-12 col-md-12 d-flex " data-aos="zoom-in" data-aos-delay="200">
 
-                <div class="row align-items-center">
-                    <div class="col-6 text-end"><img src="{{ asset('img/team-1.jpg') }}" class="img-fluid rounded"
+                <div class="row">
+                    <div class="col-md-6 text-end"><img src="{{ asset('img/team-1.jpg') }}" class="img-fluid rounded"
                             alt="">
                     </div>
-                    <div class="col-6">
+                    <div class="col-md-6 mt-5">
                         <h4>Jordan Fernandez</h4>
                         <p>Chief Executive Officer</p>
 

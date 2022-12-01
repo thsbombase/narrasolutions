@@ -57,8 +57,10 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto" href="{{ route('home') }}">Home</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('about-us') }}">About Us</a></li>
+                <li><a class="nav-link scrollto @if (Request::is('/')) active @endif"
+                        href="{{ route('home') }}">Home</a></li>
+                <li><a class="nav-link scrollto @if (Route::is('about-us')) active @endif"
+                        href="{{ route('about-us') }}">About Us</a></li>
                 <li class="dropdown"><a href="{{ route('services', 'implementation-services') }}"><span>Services</span>
                         <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
@@ -67,9 +69,11 @@
                         <li><a href="{{ route('services' , 'managed-services') }}">Managed Services</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link scrollto" href="{{ route('careers') }}">Careers</a></li>
+                <li><a class="nav-link scrollto @if (Route::is('careers')) active @endif"
+                        href="{{ route('careers') }}">Careers</a></li>
 
-                <li><a class="nav-link scrollto" href="{{ route('contact-us') }}">Contact Us</a></li>
+                <li><a class="nav-link scrollto @if (Route::is('contact-us')) active @endif"
+                        href="{{ route('contact-us') }}">Contact Us</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle d-none"></i>
     </div>

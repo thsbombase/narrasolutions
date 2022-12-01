@@ -543,7 +543,7 @@ section {
 
   .mobile-nav-toggle {
     display: block !important;
-    color: var(--color-secondary);
+    margin-top: 12px;
     font-size: 28px;
     cursor: pointer;
     line-height: 0;

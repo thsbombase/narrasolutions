@@ -24,22 +24,6 @@
                 <div class="row justify-content-center gy-6">
 
                     <div class="col-lg-5 col-md-8 text-center">
-                        <img src="{{ asset('img/Global partners.png')}}" alt="" class="img-fluid img" width="200">
-                    </div>
-
-                    <div class="col-lg-9 text-center">
-                        <h2>Global Partners</h2>
-
-                    </div>
-
-                </div>
-            </div>
-        </div><!-- End Carousel Item -->
-        <div class="carousel-item ">
-            <div class="container">
-                <div class="row justify-content-center gy-6">
-
-                    <div class="col-lg-5 col-md-8 text-center">
                         <img src="{{ asset('img/Progressive.png')}}" alt="" class="img-fluid img" width="200">
                     </div>
 
@@ -51,6 +35,23 @@
                 </div>
             </div>
         </div><!-- End Carousel Item -->
+        <div class="carousel-item ">
+            <div class="container">
+                <div class="row justify-content-center gy-6">
+
+                    <div class="col-lg-5 col-md-8 text-center">
+                        <img src="{{ asset('img/Global partners.png')}}" alt="" class="img-fluid img" width="200">
+                    </div>
+
+                    <div class="col-lg-9 text-center">
+                        <h2>Global Partners</h2>
+
+                    </div>
+
+                </div>
+            </div>
+        </div><!-- End Carousel Item -->
+
         <div class="carousel-item ">
             <div class="container">
                 <div class="row justify-content-center gy-6 ">
@@ -81,11 +82,7 @@
     </section><!-- End Hero Section -->
     <!-- ======= Featured Services Section ======= -->
     <section>
-        <div class="section-header">
-            <h2>Narra One Solutions
-            </h2>
-        </div>
-        <div class="container text-center">
+        <div class="container text-center fs-4">
             <p>Forming strong, long-lasting relationships through Narra One Solutions, we are your progressive, go-to
                 Global IT solutions provider.</p>
             <p>Narra Solutions One is the rising SME Filipino IT Oracle Solutions Provider for businesses in the
