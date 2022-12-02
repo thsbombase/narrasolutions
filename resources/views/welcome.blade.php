@@ -84,9 +84,9 @@
     <!-- ======= Featured Services Section ======= -->
     <section>
         <div class="container text-center fs-4">
-            <p>Forming strong, long-lasting relationships through Narra One Solutions, we are your progressive, go-to
+            <p>Forming strong, long-lasting relationships through NARRA ONE, we are your progressive, go-to
                 Global IT solutions provider.</p>
-            <p>Narra Solutions One is the rising SME Filipino IT Oracle Solutions Provider for businesses in the
+            <p>NARRA ONE is the rising SME Filipino IT Oracle Solutions Provider for businesses in the
                 utilities sector. We offer systems implementation and management services catering to the needs of
                 water, electricity, oil, and gas companies around the world.</p>
         </div>
@@ -95,10 +95,10 @@
     <section id="clients" class="clients ">
         <div class=" bg-white" data-aos="zoom-out">
             <div class="row align-items-center p-4 gy-5">
-                <div class="col-md-6 text-center"><img src="{{ asset('img/clients/greater.svg')}}" class="img-fluid "
+                <div class="col-6 text-center"><img src="{{ asset('img/clients/greater.svg')}}" class="img-fluid "
                         alt="" width="250">>
                 </div>
-                <div class="col-md-6 text-center"><img src="{{ asset('img/clients/bord.png')}}" class="img-fluid" alt=""
+                <div class="col-6 text-center"><img src="{{ asset('img/clients/bord.png')}}" class="img-fluid" alt=""
                         width="300">
                 </div>
             </div>
@@ -108,7 +108,7 @@
     </section><!-- End Clients Section -->
     <section id="featured-services" class="featured-services">
         <div class="section-header">
-            <h2>Why Narra One Solutions?
+            <h2>Why NARRA ONE?
             </h2>
         </div>
         <div class="container">
