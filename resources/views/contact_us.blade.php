@@ -155,12 +155,12 @@
                     <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#faq-content-5">
+                                data-bs-target="#faq-content-6">
                                 <i class="bi bi-question-circle question-icon"></i>
                                 How much do your services usually cost?
                             </button>
                         </h3>
-                        <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                        <div id="faq-content-6" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
                                 You may contact us via email or our contact number so we can discuss further.
 
