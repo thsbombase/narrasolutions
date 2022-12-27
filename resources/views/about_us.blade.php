@@ -34,45 +34,6 @@
     </div>
 </section><!-- End About Section -->
 
-<!-- ======= Team Section ======= -->
-<section id="team" class="team mt-0">
-    <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
-            <h1>Meet our CEO</h1>
-        </div>
-
-        <div class="row gy-5 justify-content-center">
-
-            <div class="col-xl-12 col-md-12 d-flex " data-aos="zoom-in" data-aos-delay="200">
-
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-end"><img src="{{ asset('img/team-1.jpg') }}"
-                            class="img-fluid rounded" alt="" width="350">
-                    </div>
-                    <div class="col-md-6 mt-5">
-                        <h4>Jordan Fernandez</h4>
-                        <p>Chief Executive Officer</p>
-
-                        <p>A technology enthusiast with more than 12 years of experience in software implementation
-                            design, business analysis, and technology consulting.
-                        </p>
-                        <p>Leveraging his expertise in Oracle Enterprise Applications, Jordan uses technology to
-                            encourage creativity and transparency in everyday life. He specializes in the Tax &
-                            Utilities industries and has developed his career across different countries and under
-                            different organizations, including <b>IBM Philippines</b> and the<b> National Water
-                                Company</b> in
-                            the
-                            Kingdom of Saudi Arabia. Most of Jordan’s career was spent in Australia working as a
-                            Techno-Functional Lead for a local Queensland business.</p>
-                    </div>
-                </div>
-
-            </div><!-- End Team Member -->
-
-        </div>
-
-    </div>
-</section><!-- End Team Section -->
 
 @endsection
